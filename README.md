@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanou16" alt="yanou16" /></a> </p>
 
-- 🌱 I’m currently learning **nextJs**
+- 🌱 I’m currently learning **Laravel & Go **
 
 - 📫 How to reach me **rayanelouzazna13@gmail.com**
 
