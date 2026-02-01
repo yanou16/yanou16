@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayane</h1>
-<h3 align="center">a web developer focused on creating user-friendly and engaging websites and apps. I love exploring the latest web technologies to bring fresh ideas to life and make online experiences enjoyable for everyone</h3>
+<h3 align="center">As a Full-Stack Developer turned MLOps Engineer, I bridge the gap between Data Science and Engineering. My philosophy is 'Full Cycle Engineering': I build the app, deploy the infrastructure, and monitor the model.
+
+🛠 What I do: • MLOps: Building end-to-end pipelines (Ingestion → Training → Deployment → Monitoring). • Engineering: Containerizing applications (Docker) and orchestrating workflows. • Development: Creating intuitive interfaces (Next.js) for complex AI models (Llama, Scikit-learn).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanou16&label=Profile%20views&color=0e75b6&style=flat" alt="yanou16" /> </p>
 
